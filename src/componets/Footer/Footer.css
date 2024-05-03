@@ -1,0 +1,24 @@
+a:hover{
+  color: #Dd3b30;
+  cursor: pointer;
+}
+
+a{
+    color:black;
+}
+
+.icon{
+     height:25px ;
+     width:30px
+}
+
+.icon:hover > .in-icon{
+  color: #Dd3b30;
+  cursor: pointer;
+}
+
+.in-icon{
+    height: 100%;
+    width: 100%;
+}
+
